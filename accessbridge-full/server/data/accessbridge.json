@@ -1,0 +1,279 @@
+{
+  "version": 1,
+  "schemes": [
+    {
+      "id": "nsp",
+      "name": "National Scholarship Portal",
+      "category": "Scholarships",
+      "icon": "🎓",
+      "description": "Official starting point for scholarship schemes offered through participating central and state departments.",
+      "audience": "Students exploring scholarship opportunities",
+      "states": [
+        "all"
+      ],
+      "education": [
+        "School",
+        "Intermediate",
+        "Diploma",
+        "B.Tech",
+        "Degree",
+        "Postgraduate",
+        "Other"
+      ],
+      "documents": [
+        "Academic marksheets",
+        "Income certificate if required by the specific scheme",
+        "Identity and bank details only when required by the official scheme"
+      ],
+      "verify": [
+        "Whether applications are currently open",
+        "Institution and course requirements",
+        "Scheme-specific income and academic criteria"
+      ],
+      "url": "https://scholarships.gov.in/",
+      "source": "https://scholarships.gov.in/",
+      "lastVerified": null,
+      "active": true,
+      "dataMode": "official_portal_directory",
+      "dataPolicy": "Directory summary only; confirm current eligibility, benefits, documents and deadlines on the linked official portal."
+    },
+    {
+      "id": "pmvidyalaxmi",
+      "name": "PM-Vidyalaxmi",
+      "category": "Education",
+      "icon": "📘",
+      "description": "Official portal for information about education-loan support for eligible students and institutions.",
+      "audience": "Students planning higher education",
+      "states": [
+        "all"
+      ],
+      "education": [
+        "B.Tech",
+        "Degree",
+        "Postgraduate",
+        "Other"
+      ],
+      "documents": [
+        "Admission or institution details",
+        "Academic records",
+        "Identity and address documents requested by the lender"
+      ],
+      "verify": [
+        "Institution and course eligibility",
+        "Current loan terms",
+        "Bank-specific documentation"
+      ],
+      "url": "https://pmvidyalaxmi.co.in/",
+      "source": "https://pmvidyalaxmi.co.in/",
+      "lastVerified": null,
+      "active": true,
+      "dataMode": "official_portal_directory",
+      "dataPolicy": "Directory summary only; confirm current eligibility, benefits, documents and deadlines on the linked official portal."
+    },
+    {
+      "id": "ncs",
+      "name": "National Career Service",
+      "category": "Jobs & careers",
+      "icon": "💼",
+      "description": "Government career-services portal for job seekers, employers and career-related support.",
+      "audience": "People exploring jobs and career support",
+      "states": [
+        "all"
+      ],
+      "education": [
+        "Intermediate",
+        "Diploma",
+        "B.Tech",
+        "Degree",
+        "Postgraduate",
+        "Other"
+      ],
+      "documents": [
+        "Basic profile and contact details",
+        "Education and work experience information",
+        "Documents specifically requested by an employer"
+      ],
+      "verify": [
+        "Employer and vacancy authenticity",
+        "Eligibility and application deadline",
+        "Never pay an unknown recruiter to secure a job"
+      ],
+      "url": "https://www.ncs.gov.in/",
+      "source": "https://www.ncs.gov.in/",
+      "lastVerified": null,
+      "active": true,
+      "dataMode": "official_portal_directory",
+      "dataPolicy": "Directory summary only; confirm current eligibility, benefits, documents and deadlines on the linked official portal."
+    },
+    {
+      "id": "uidai",
+      "name": "UIDAI — Aadhaar Services",
+      "category": "Government services",
+      "icon": "🪪",
+      "description": "Official portal for Aadhaar-related information and services.",
+      "audience": "People looking for Aadhaar services",
+      "states": [
+        "all"
+      ],
+      "education": [
+        "School",
+        "Intermediate",
+        "Diploma",
+        "B.Tech",
+        "Degree",
+        "Postgraduate",
+        "Other"
+      ],
+      "documents": [
+        "Use only documents listed for your selected service on the official website"
+      ],
+      "verify": [
+        "Confirm you are on the official UIDAI domain",
+        "Never share OTPs with unknown people",
+        "Check appointment and service instructions"
+      ],
+      "url": "https://uidai.gov.in/",
+      "source": "https://uidai.gov.in/",
+      "lastVerified": null,
+      "active": true,
+      "dataMode": "official_portal_directory",
+      "dataPolicy": "Directory summary only; confirm current eligibility, benefits, documents and deadlines on the linked official portal."
+    },
+    {
+      "id": "india-gov",
+      "name": "National Portal of India",
+      "category": "Government services",
+      "icon": "🏛️",
+      "description": "Directory of government departments, services and public information.",
+      "audience": "People looking for government information",
+      "states": [
+        "all"
+      ],
+      "education": [
+        "School",
+        "Intermediate",
+        "Diploma",
+        "B.Tech",
+        "Degree",
+        "Postgraduate",
+        "Other"
+      ],
+      "documents": [
+        "Requirements depend on the department or service you choose"
+      ],
+      "verify": [
+        "Correct department and official portal",
+        "Current application instructions",
+        "Service-specific eligibility"
+      ],
+      "url": "https://www.india.gov.in/",
+      "source": "https://www.india.gov.in/",
+      "lastVerified": null,
+      "active": true,
+      "dataMode": "official_portal_directory",
+      "dataPolicy": "Directory summary only; confirm current eligibility, benefits, documents and deadlines on the linked official portal."
+    },
+    {
+      "id": "digilocker",
+      "name": "DigiLocker",
+      "category": "Government services",
+      "icon": "📂",
+      "description": "Official platform for accessing and sharing eligible digital documents and certificates.",
+      "audience": "People who need digital documents",
+      "states": [
+        "all"
+      ],
+      "education": [
+        "School",
+        "Intermediate",
+        "Diploma",
+        "B.Tech",
+        "Degree",
+        "Postgraduate",
+        "Other"
+      ],
+      "documents": [
+        "Account or mobile verification details requested by the official service"
+      ],
+      "verify": [
+        "Use the official DigiLocker website or app",
+        "Review consent before sharing documents",
+        "Never share passwords or OTPs"
+      ],
+      "url": "https://www.digilocker.gov.in/",
+      "source": "https://www.digilocker.gov.in/",
+      "lastVerified": null,
+      "active": true,
+      "dataMode": "official_portal_directory",
+      "dataPolicy": "Directory summary only; confirm current eligibility, benefits, documents and deadlines on the linked official portal."
+    },
+    {
+      "id": "aicte",
+      "name": "AICTE",
+      "category": "Education",
+      "icon": "🏫",
+      "description": "Official information about technical education, approved institutions and related initiatives.",
+      "audience": "Students exploring technical education",
+      "states": [
+        "all"
+      ],
+      "education": [
+        "Diploma",
+        "B.Tech",
+        "Degree",
+        "Postgraduate",
+        "Other"
+      ],
+      "documents": [
+        "Institution and course details where relevant"
+      ],
+      "verify": [
+        "Current institution approval and course details",
+        "Official notices and academic-year information"
+      ],
+      "url": "https://www.aicte-india.org/",
+      "source": "https://www.aicte-india.org/",
+      "lastVerified": null,
+      "active": true,
+      "dataMode": "official_portal_directory",
+      "dataPolicy": "Directory summary only; confirm current eligibility, benefits, documents and deadlines on the linked official portal."
+    },
+    {
+      "id": "myscheme",
+      "name": "myScheme",
+      "category": "Government services",
+      "icon": "🧭",
+      "description": "Government scheme discovery portal to explore central and state scheme information.",
+      "audience": "Citizens exploring government schemes",
+      "states": [
+        "all"
+      ],
+      "education": [
+        "School",
+        "Intermediate",
+        "Diploma",
+        "B.Tech",
+        "Degree",
+        "Postgraduate",
+        "Other"
+      ],
+      "documents": [
+        "Documents vary by scheme",
+        "Identity or residence proof where required",
+        "Income or category certificates only where required"
+      ],
+      "verify": [
+        "Eligibility criteria and exceptions",
+        "Application dates and benefits",
+        "Official application route"
+      ],
+      "url": "https://www.myscheme.gov.in/",
+      "source": "https://www.myscheme.gov.in/",
+      "lastVerified": null,
+      "active": true,
+      "dataMode": "official_portal_directory",
+      "dataPolicy": "Directory summary only; confirm current eligibility, benefits, documents and deadlines on the linked official portal."
+    }
+  ],
+  "searchHistory": []
+}
